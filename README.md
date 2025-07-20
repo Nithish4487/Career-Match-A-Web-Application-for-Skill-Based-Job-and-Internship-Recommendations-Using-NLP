@@ -1,0 +1,2 @@
+# Career-Match-A-Web-Application-for-Skill-Based-Job-and-Internship-Recommendations-Using-NLP
+This web app uses NLP to analyze resumes and match users with suitable internships or entry-level jobs, mainly via platforms like Internshala. It extracts key resume info (skills, education, experience) to recommend roles aligned with the user's profile. A usability study shows it enhances job search efficiency and relevance.
